@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on Coffee-Shop store on React
+- 🔭 I’m currently working on <a href="#" target="_blank">Coffee-Shop</a> store on React
 - 🌱 I’m currently learning React, TS, web
 - 🌍 I speak Russian (native), English (A2)
 - 📫 How to reach me: tiemposilencioo@gmail.com
