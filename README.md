@@ -20,3 +20,6 @@
 <img src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png"/>
 <img src="https://img.icons8.com/color/48/null/git.png"/>
 <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/>
+<img src="https://img.icons8.com/color/48/null/sass-avatar.png"/>
+<img src="https://img.icons8.com/color/48/null/webpack.png"/>
+<img src="https://img.icons8.com/color/48/null/bootstrap.png"/>
