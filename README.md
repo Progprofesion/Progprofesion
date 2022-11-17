@@ -11,5 +11,8 @@
 <!-- - ⚡ Fun fact: ... -->
 
 <h3>Languages:<h3/> 
-<img height="32" width="32" src="[https://cdn.simpleicons.org/CSS3](https://icons8.com/icon/CMVEhOBzk3Zp/html-5)" />
+<img src="https://img.icons8.com/color/48/null/html-5--v1.png"/>
+<img src="https://img.icons8.com/fluency/48/null/css3.png"/>
+<img src="https://img.icons8.com/color/48/null/javascript--v1.png"/>
+
 
