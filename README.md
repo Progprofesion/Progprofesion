@@ -25,3 +25,8 @@
 <img src="https://img.icons8.com/color/48/null/sass-avatar.png"/>
 <img src="https://img.icons8.com/color/48/null/webpack.png"/>
 <img src="https://img.icons8.com/color/48/null/bootstrap.png"/>
+
+
+<h3>Fun:<h3/> 
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
