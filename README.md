@@ -4,8 +4,8 @@
 
 
 
-- 🔭 I’m currently working on <a href="https://github.com/Progprofesion/coffeeShop" target="_blank">Coffee-Shop</a> store on React
-- 🌱 I’m currently learning React, TS, web
+- 🔭 I’m currently working on <a href="https://github.com/Progprofesion/coffeeShop" target="_blank">Coffee-Shop</a> store on `React`
+- 🌱 I’m currently learning `React`, `TS`, `web`
 - 🌍 I speak Russian (native), English (A2)
 - 📫 How to reach me: tiemposilencioo@gmail.com
 <!-- - ⚡ Fun fact: ... -->
