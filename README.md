@@ -24,4 +24,5 @@
 <img src="https://img.icons8.com/color/48/null/git.png"/>
 <img src="https://img.icons8.com/color/48/null/sass-avatar.png"/>
 <img src="https://img.icons8.com/color/48/null/webpack.png"/>
-<img src="https://img.icons8.com/color/48/null/bootstrap.png"/>  
+<img src="https://img.icons8.com/color/48/null/bootstrap.png"/> 
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-gulp-an-open-source-javascript-toolkit-by-fractal-innovations-logo-color-tal-revivo.png"/>
