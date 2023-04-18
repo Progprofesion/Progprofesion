@@ -4,7 +4,11 @@
 
 
 
-- 🔭 I’m currently working on <a href="https://www.codewars.com/users/Progprofesion" target="_blank">Code Wars</a>
+- 🔭 I’m currently working on <a href="https://www.codewars.com/users/Progprofesion" target="_blank">Code Wars</a> 
+
+<img src="https://www.codewars.com/users/Progprofesion/badges/large"/>
+
+
 - 🌱 I’m currently learning `React`, `TS`, `web`
 - 🌍 I speak Russian (native), English (A2)
 - 📫 How to reach me: tiemposilencioo@gmail.com
