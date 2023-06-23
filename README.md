@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on <a href="https://www.codewars.com/users/Progprofesion" target="_blank">Code Wars</a> 
+- 🔭 I’m currently working on LeetCode and <a href="https://www.codewars.com/users/Progprofesion" target="_blank">Code Wars</a> 
 
 <img src="https://www.codewars.com/users/Progprofesion/badges/large"/>
 
